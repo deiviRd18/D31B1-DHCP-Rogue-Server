@@ -25,6 +25,13 @@ This script establishes a **Rogue DHCP Server** that competes with the legitimat
 ![Topology Screenshot](img/topology.png)
 
 ## 3. Requirements & Usage
+
+### Installation
+```bash
+git clone https://github.com/deiviRd18/D31B1-DHCP-Rogue-Server.git
+cd D31B1-DHCP-Rogue-Server
+pip3 install scapy
+```
 ### Configuration
 You can modify the malicious parameters in the script:
 ```python
