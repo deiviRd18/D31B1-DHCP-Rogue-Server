@@ -8,7 +8,10 @@
 **Educational use only.** This tool intercepts network traffic. Use only in authorized testing environments.
 
 ## 🎥 Video Demonstration
-[PASTE YOUR YOUTUBE/DRIVE LINK HERE]
+
+<a href="https://youtu.be/ts0bNdF3jlw" target="_blank">
+ <img src="https://img.youtube.com/vi/ts0bNdF3jlw/maxresdefault.jpg" alt="Ver Video" width="600" border="10" />
+</a>
 
 ---
 
