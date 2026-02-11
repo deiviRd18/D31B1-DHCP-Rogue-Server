@@ -25,7 +25,6 @@ This script establishes a **Rogue DHCP Server** that competes with the legitimat
 * **Victim:** Windows 10 Client.
 * **Malicious Gateway:** 20.24.20.2
 
-![Topology Screenshot](img/topology.png)
 
 ## 3. Requirements & Usage
 
